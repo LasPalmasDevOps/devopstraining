@@ -14,6 +14,7 @@ vagrant up
 ### Equipo
 * @adayth
 * @morrizon
+* @nmonzonlo
 * @oscarverona
 * @R3v1L
 
