@@ -11,6 +11,8 @@ Web en Vagrant con recursos de DevOps para ayudar al aprendizaje apoyada en la c
 ```
 vagrant up
 ```
+Y accede en un navegador a la url [http://localhost:8080](http://localhost:8080).
+
 ### Equipo
 * @adayth
 * @morrizon
@@ -21,3 +23,5 @@ vagrant up
 ### Recursos
 
 * [Seguimiento del proyecto (Taiga)](https://tree.taiga.io/project/adayth-dev-ops-training/)
+
+### [Licencia](https://github.com/LasPalmasDevOps/devopstraining/blob/master/LICENSE.txt)
