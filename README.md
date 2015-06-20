@@ -7,7 +7,16 @@ Q: Are We Not Developers? A: We Are DevOps!
 
 Web en Vagrant con recursos de DevOps para ayudar al aprendizaje apoyada en la comunidad [LasPalmasDevOps](http://www.meetup.com/es/Las-Palmas-DevOps/).
 
+### Instalación
+```
+vagrant up
+```
+### Equipo
+* @adayth
+* @morrizon
+* @oscarverona
+* @R3v1L
+
 ### Recursos
 
-* [Taiga](https://tree.taiga.io/project/adayth-dev-ops-training/)
-* [Github](https://github.com/LasPalmasDevOps/devopstraining/)
+* [Seguimiento del proyecto (Taiga)](https://tree.taiga.io/project/adayth-dev-ops-training/)
