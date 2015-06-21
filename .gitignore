@@ -1,1 +1,6 @@
+# Vagrant files
 .vagrant/
+
+# Sublime text files
+*.sublime-project
+*.sublime-workspace
