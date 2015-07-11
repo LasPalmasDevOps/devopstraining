@@ -15,6 +15,7 @@ Y accede en un navegador a la url [http://localhost:8080](http://localhost:8080)
 
 ### Equipo
 * @adayth
+* @Episodio1
 * @jfelicianoat
 * @medinarribas
 * @morrizon
