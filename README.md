@@ -15,10 +15,14 @@ Y accede en un navegador a la url [http://localhost:8080](http://localhost:8080)
 
 ### Equipo
 * @adayth
+* @jfelicianoat
+* @medinarribas
 * @morrizon
 * @nmonzonlo
 * @oscarverona
 * @R3v1L
+* @RonnyAnc
+* @tormentita
 
 ### Recursos
 
